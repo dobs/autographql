@@ -1,6 +1,6 @@
 # AutoGraphQL
 
-Automagic GraphQL Schema Generation for Rails and ActiveRecord
+Automatic GraphQL Schema Generation for Rails and ActiveRecord.
 
 This project is currently a very early WIP. See *Roadmap* below for requirements leading up to a usable state.
 
