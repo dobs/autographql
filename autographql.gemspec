@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ['dan@dobs.org']
   s.homepage    = 'https://github.com/dobs/autographql'
   s.summary     = 'Automatic GraphQL Schema Generation for Rails and ActiveRecord.'
-  s.description = 'Automagic GraphQL Schema Generation for Rails and ActiveRecord.'
+  s.description = 'Automatic GraphQL Schema Generation for Rails and ActiveRecord.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']
