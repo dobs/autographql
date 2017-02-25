@@ -1,4 +1,4 @@
-# AutoGraphQL
+# AutoGraphQL [![CircleCI](https://circleci.com/gh/dobs/autographql/tree/develop.svg?style=svg)](https://circleci.com/gh/dobs/autographql/tree/develop)
 
 Automatic GraphQL Schema Generation for Rails and ActiveRecord.
 
@@ -42,9 +42,9 @@ $ gem install autographql
       * [ ] Complex relation support.
       * [ ] Scope support.
       * [ ] Custom attribute support.
+      * [ ] Draper support.
     * Security
-      * [ ] Cancan(can) support.
-      * [ ] Pundit support.
+      * [ ] Authentication callback support (Cancan, Pundit).
       * [ ] Whitelisting support.
       * [ ] Optional schema hiding.
     * Performance
@@ -54,6 +54,7 @@ $ gem install autographql
       * [ ] Support outside of Rails.
       * [ ] "Eject" support.
       * [ ] Documentation generation.
+      * [ ] GraphiQL.
 
 ## Contributing
 
