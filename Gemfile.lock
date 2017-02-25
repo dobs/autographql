@@ -183,7 +183,6 @@ DEPENDENCIES
   autographql!
   bundler-audit
   byebug
-  factory_girl
   factory_girl_rails
   guard
   guard-rspec
