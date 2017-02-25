@@ -1,4 +1,4 @@
-# AutoGraphQL [![CircleCI](https://circleci.com/gh/dobs/autographql.svg?style=svg)](https://circleci.com/gh/dobs/autographql) [![Dependency Status](https://gemnasium.com/badges/github.com/dobs/autographql.svg)](https://gemnasium.com/github.com/dobs/autographql)
+# AutoGraphQL [![CircleCI](https://circleci.com/gh/dobs/autographql.svg?style=svg)](https://circleci.com/gh/dobs/autographql) [![Dependency Status](https://gemnasium.com/badges/github.com/dobs/autographql.svg)](https://gemnasium.com/github.com/dobs/autographql) [![Code Climate](https://codeclimate.com/github/dobs/autographql/badges/gpa.svg)](https://codeclimate.com/github/dobs/autographql)
 
 
 Automatic GraphQL Schema Generation for Rails and ActiveRecord.
