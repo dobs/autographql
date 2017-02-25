@@ -3,7 +3,7 @@ ENV['RAILS_ENV'] ||= 'test'
 
 # Refer to our dummy application's config rather than the engine's.
 require File.expand_path("../../spec/dummy/config/environment.rb", __FILE__)
-ActiveRecord::Migrator.migrations_paths = [File.expand_path("../../test/dummy/db/migrate", __FILE__)]
+ActiveRecord::Migrator.migrations_paths = [File.expand_path("../../spec/dummy/db/migrate", __FILE__)]
 ActiveRecord::Migrator.migrations_paths << File.expand_path('../../db/migrate', __FILE__)
 
 # Prevent database truncation if the environment is production
