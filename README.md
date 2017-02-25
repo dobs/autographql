@@ -1,4 +1,4 @@
-# AutoGraphQL [![CircleCI](https://circleci.com/gh/dobs/autographql/tree/develop.svg?style=svg)](https://circleci.com/gh/dobs/autographql/tree/develop)
+# AutoGraphQL [![CircleCI](https://circleci.com/gh/dobs/autographql.svg?style=svg)](https://circleci.com/gh/dobs/autographql)
 
 Automatic GraphQL Schema Generation for Rails and ActiveRecord.
 
