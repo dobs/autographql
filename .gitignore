@@ -8,7 +8,6 @@ test/dummy/tmp/
 # From `gitignore` project.
 *.rbc
 capybara-*.html
-.rspec
 /log
 /tmp
 /db/*.sqlite3
